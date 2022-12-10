@@ -1,0 +1,13 @@
+A. What is reverse-i-search in a Linux terminal?
+Answer:- in Linux terminal we are able to search what commands we have already given to system, these command can be seen using 'history' command 
+        and if we want to auto complete these command we use 'Ctrl+r' to enable reverse-i-search and then start typing it will show similar previours command to user.
+
+B. How do you list out the hidden directories using Linux command line tool?
+Answer:- ls -a
+
+C. How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+Answer:- comfortable with Linux OS, currently alow working on Ubuntu 20.4 OS.
+
+D. Have you ever used Servers to host any web applications in the past? If yes, what
+services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+Answer- I known Nginx but never work on it.
